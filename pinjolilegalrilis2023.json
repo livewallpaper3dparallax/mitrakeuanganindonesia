@@ -1,112 +1,248 @@
 {
-  "apps": [
-    {
-      "status": 1,
-      "redirect_url": "",
-      "privacy_policy_url": "https://pinjolrandomman.blogspot.com/p/privacy-policy.html",
-	"email_feedback_and_report": "pinjolrandomman@outlook.com",
-      "webview_cache": true,
-      "post_list_in_large_style": false,
-      "show_post_list_header": true,
-      "show_post_detail_image": true,
-      "show_post_detail_title": true,
-      "show_post_detail_category": true,
-      "show_related_posts": true,
-      "enable_rtl_mode": false,
-      "enable_exit_dialog": true,
-      "enable_app_protection": false,
-      "enable_dark_mode_as_default_theme": false,
-      "youtube_api_key": "0",
-      "base64_license_key": ""
-    }
-  ],
-  "ads": [
-    {
-      "ad_status": 1,
-      "main_ad": "admob",
-      "backup_ad": "none",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
-      "ad_manager_banner_unit_id": "/6499/example/banner",
-      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
-      "ad_manager_native_unit_id": "/6499/example/native",
-      "ad_manager_app_open_unit_id": "/6499/example/app-open",
-      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
-      "startapp_app_id": "0",
-      "unity_game_id": "4089993",
-      "unity_banner_placement_id": "banner",
-      "unity_interstitial_placement_id": "video",
-      "applovin_banner_unit_id": "0",
-      "applovin_interstitial_unit_id": "0",
-      "applovin_native_manual_unit_id": "0",
-      "applovin_open_ad_unit_id": "0",
-      "applovin_banner_zone_id": "0",
-      "applovin_interstitial_zone_id": "0",
-      "ironsource_app_key": "85460dcd",
-      "ironsource_banner_id": "DefaultBanner",
-      "ironsource_interstitial_id": "DefaultInterstitial",
-      "interstitial_ad_interval": 3,
-      "native_ad_index": 1,
-      "native_ad_interval": 2,
-      "native_ad_style": "medium",
-      "native_ad_post_details_position": "top",
-      "show_banner_ad_home": true,
-      "show_banner_ad_post_details": true,
-      "show_banner_ad_category_details": true,
-      "show_banner_ad_search": true,
-      "show_interstitial_ad_post_list": true,
-      "show_interstitial_ad_post_details": true,
-      "show_native_ad_post_list": true,
-      "show_native_ad_post_details": true,
-      "show_app_open_ad": true
-    }
-  ],
-  "categories": [
-
-  ],
-  "posts": [
-   
-  ],
-  "more_apps": [
-    {
-      "id": 1,
-      "title": "Android News App",
-      "image": "https://play-lh.googleusercontent.com/eKJPha96I1bf-5N1t_5AGCfgDem6Mhd_Zx0Mqd99VctURQNZWOrT4PGLwnnA0IwAOA=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.solodroid.newsappdemo"
-    },
-    {
-      "id": 2,
-      "title": "Material Wallpaper",
-      "image": "https://play-lh.googleusercontent.com/3T-dy3DXh97Z3bIdo-gGmmkFrEahaAliUWVqBx3yxTaQ53k2IGU1X8NBMd9BXbHsGOER=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.solodroid.solowallpaper"
-    },
-    {
-      "id": 3,
-      "title": "Your Videos Channel",
-      "image": "https://play-lh.googleusercontent.com/bvAffce04aejSuP0nsAz6bJ4x98s6MUlR3lLZ3k_HLcB-UVdgC6Vk6Rsi3g2ibDkGA=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.solodroid.solovid"
-    },
-    {
-      "id": 4,
-      "title": "Your Radio App",
-      "image": "https://play-lh.googleusercontent.com/UxqrpJdOfz6DtSZqM_WLTV589-1DNVc9AnTIF1NAHHKbKJJ7wA4TJmtNJljv7kNUrA=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.solodroid.yourradioappdemo"
-    },
-    {
-      "id": 5,
-      "title": "WebDroid",
-      "image": "https://play-lh.googleusercontent.com/TyntUvov68ugQJBue7uSuodDhNfV-Li_k7v_xx_CWJ4SXAVvd8QVRNPjBoDqo9R2X8A=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.solodroid.webdroid"
-    },
-    {
-      "id": 6,
-      "title": "Blogger News App",
-      "image": "https://play-lh.googleusercontent.com/urfXGfBHxNELMoDnAXE7fNbubBAk4cikHsrhFOnWs2pxoNP0a1BqdDCjzVbVQdEqug=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.solodroid.bloggernewsapp"
-    }
-  ]
+    "apps": [
+        {
+            "status": 1,
+            "redirect_url": "",
+            "privacy_policy_url": "https://pinjolrandomman.blogspot.com/p/privacy-policy.html",
+            "email_feedback_and_report": "pinjolrandomman@outlook.com",
+            "webview_cache": true,
+            "post_list_in_large_style": false,
+            "show_post_list_header": true,
+            "show_post_detail_image": true,
+            "show_post_detail_title": true,
+            "show_post_detail_category": true,
+            "show_related_posts": true,
+            "enable_rtl_mode": false,
+            "enable_exit_dialog": true,
+            "enable_app_protection": false,
+            "enable_dark_mode_as_default_theme": false,
+            "youtube_api_key": "0",
+            "base64_license_key": ""
+        }
+    ],
+    "ads": [
+        {
+            "ad_status": 1,
+            "main_ad": "fan",
+            "backup_ad": "admob",
+            "admob_banner_unit_id": "ca-app-pub-6007532883186155/8382164388",
+            "admob_interstitial_unit_id": "ca-app-pub-6007532883186155/7069082714",
+            "admob_native_unit_id": "ca-app-pub-6007532883186155/4150177856",
+            "admob_app_open_unit_id": "ca-app-pub-6007532883186155/7210938548",
+            "ad_manager_banner_unit_id": "/6499/example/banner",
+            "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+            "ad_manager_native_unit_id": "/6499/example/native",
+            "ad_manager_app_open_unit_id": "/6499/example/app-open",
+            "fan_banner_unit_id": "1698266550679223_1698270877345457",
+            "fan_interstitial_unit_id": "1698266550679223_1701374767035068",
+            "fan_native_unit_id": "1698266550679223_1701374807035064",
+            "startapp_app_id": "0",
+            "unity_game_id": "4089993",
+            "unity_banner_placement_id": "banner",
+            "unity_interstitial_placement_id": "video",
+            "applovin_banner_unit_id": "0",
+            "applovin_interstitial_unit_id": "0",
+            "applovin_native_manual_unit_id": "0",
+            "applovin_open_ad_unit_id": "0",
+            "applovin_banner_zone_id": "0",
+            "applovin_interstitial_zone_id": "0",
+            "ironsource_app_key": "85460dcd",
+            "ironsource_banner_id": "DefaultBanner",
+            "ironsource_interstitial_id": "DefaultInterstitial",
+            "interstitial_ad_interval": 1,
+            "native_ad_index": 1,
+            "native_ad_interval": 2,
+            "native_ad_style": "medium",
+            "native_ad_post_details_position": "top",
+            "show_banner_ad_home": true,
+            "show_banner_ad_post_details": true,
+            "show_banner_ad_category_details": true,
+            "show_banner_ad_search": true,
+            "show_interstitial_ad_post_list": true,
+            "show_interstitial_ad_post_details": true,
+            "show_native_ad_post_list": true,
+            "show_native_ad_post_details": true,
+            "show_app_open_ad": true
+        }
+    ],
+    "categories": [],
+    "posts": [
+        {
+            "id": 1,
+            "category": "Pinjaman",
+            "title": "Aplikasi Pinjaman Online Cepat Cair Terbaik, Bunga Rendah",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F1.html?alt=media&token=a28cf812-0867-443d-b9a9-c41bee2e7f05",
+            "video": ""
+        },
+        {
+            "id": 2,
+            "category": "Pinjaman",
+            "title": "Tips Meminjam Uang di Aplikasi Pinjaman Online",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F2.html?alt=media&token=a6b875a0-37f9-46fc-955a-5ce263fcd583",
+            "video": ""
+        },
+        {
+            "id": 3,
+            "category": "Pinjaman",
+            "title": "Aplikasi Pinjaman Online yang Aman",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F3.html?alt=media&token=208009ac-a0fb-40d0-b5ee-31e2354c6918",
+            "video": ""
+        },
+        {
+            "id": 4,
+            "category": "Pinjaman",
+            "title": "Daftar Aplikasi Fintech Terpercaya",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F4.html?alt=media&token=25088bc3-ce10-4554-9609-a697897def44",
+            "video": ""
+        },
+        {
+            "id": 5,
+            "category": "Pinjaman",
+            "title": "Menggunakan Dengan Bijak, Ini 10 Syarat Pinjaman Online",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F5.html?alt=media&token=9ae8c788-1e90-4b86-9bde-11de9f47716f",
+            "video": ""
+        },
+        {
+            "id": 6,
+            "category": "Pinjaman",
+            "title": "Tips Agar Pengajuan Pinjaman Online Disetujui",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F6.html?alt=media&token=f9586222-a582-4668-906f-fb333b286cf6",
+            "video": ""
+        },
+        {
+            "id": 7,
+            "category": "Pinjaman",
+            "title": "Bagi Pertama kali, Ikuti Cara dibawah ini",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F7.html?alt=media&token=4a8fb097-8c8e-43a5-9a2c-cdaacb5527d6",
+            "video": ""
+        },
+        {
+            "id": 8,
+            "category": "Pinjaman",
+            "title": "Apakah data galbay pinjol bisa dihapus?",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F8.html?alt=media&token=4b235fca-0ca6-4b03-83d8-735766a82a97",
+            "video": ""
+        },
+        {
+            "id": 9,
+            "category": "Pinjaman",
+            "title": "6 tips ajukan pinjaman online dengan minim risiko di situasi darurat apapun",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F9.html?alt=media&token=f12c9e07-14b6-4e80-b98a-863ef36cff4b",
+            "video": ""
+        },
+        {
+            "id": 10,
+            "category": "Pinjaman",
+            "title": "Tips 1 Pilih Fintech Berizin dan Terdaftar OJK dan Tergabung dalam AFPI",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F10.html?alt=media&token=f311965e-1573-4193-9d7f-8e2667aedb0b",
+            "video": ""
+        },
+        {
+            "id": 11,
+            "category": "Pinjaman",
+            "title": "Tips 2 Tujuan Ajukan Pinjaman Online Jelas",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F11.html?alt=media&token=5d79414f-c013-4641-a341-2e0fba6d6528",
+            "video": ""
+        },
+        {
+            "id": 12,
+            "category": "Pinjaman",
+            "title": "Tips 3 Simak Tingkat Bunga dan Denda Keterlambatannya",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F12.html?alt=media&token=9ae5deda-340a-4151-9711-6548793d4d8f",
+            "video": ""
+        },
+        {
+            "id": 13,
+            "category": "Pinjaman",
+            "title": "Tips 4 Sesuaikan Dana Pinjol dengan Kemampuan Bayar dan Kebutuhan",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F13.html?alt=media&token=b08918b1-cb6e-429d-9f09-1b2623491f2b",
+            "video": ""
+        },
+        {
+            "id": 14,
+            "category": "Pinjaman",
+            "title": "Tips 5 Selalu On Time Bayar Cicilan",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F14.html?alt=media&token=4a0a9ed5-3b43-4ad9-bf01-3c91e8e96e42",
+            "video": ""
+        },
+        {
+            "id": 15,
+            "category": "Pinjaman",
+            "title": "Tips 6 Teliti Seluruh Poin dalam Kontrak Pinjaman",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F15.html?alt=media&token=49aec398-39a0-4dc8-afca-ec5a29fb7bb1",
+            "video": ""
+        },
+        {
+            "id": 16,
+            "category": "Pinjaman",
+            "title": "Cara Mengajukan Pinjaman Online OJK Supaya Disetujui",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F16.html?alt=media&token=494dbef6-c45b-4afc-9adc-36fc2192e1d1",
+            "video": ""
+        },
+        {
+            "id": 17,
+            "category": "Pinjaman",
+            "title": "Ciri-ciri Penipuan Pinjol Via Media Social",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F17.html?alt=media&token=bd8e88b4-a945-4dc0-8f4f-535532679997",
+            "video": ""
+        },
+        {
+            "id": 18,
+            "category": "Pinjaman",
+            "title": "5 Jenis Pinjaman Tanpa Bunga, Mau Coba?",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F18.html?alt=media&token=c7d88a7e-a588-4f5b-94bd-f5cb9728fe85",
+            "video": ""
+        },
+        {
+            "id": 19,
+            "category": "Pinjaman",
+            "title": "Ini Risiko Tidak Bayar Utang Pinjol, Awas Makin Menumpuk",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F19.html?alt=media&token=7c1dea28-eefc-423c-ba40-1a624ab2b166",
+            "video": ""
+        },
+        {
+            "id": 20,
+            "category": "Pinjaman",
+            "title": "Terjerat Utang Pinjol Tak Bisa Bayar, Ada Ancaman Penjara?",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F20.html?alt=media&token=848d98a4-4710-4c57-a03c-361a77ef29f0",
+            "video": ""
+        },
+        {
+            "id": 21,
+            "category": "Pinjaman",
+            "title": "Daftar Bank yang Bisa Beri Pinjaman Tanpa Jaminan, ini Dia!",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F21.html?alt=media&token=c0229528-6712-435c-9929-92b18884a6bc",
+            "video": ""
+        },
+        {
+            "id": 22,
+            "category": "Pinjaman",
+            "title": "Pinjam Uang di Pinjol Cair Langsung Tanpa Rekening Bank",
+            "image": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2FBANNER%2FABADI%20DANA%20(3).png?alt=media&token=205965ea-4cf1-4d19-ad59-5e1edea5562b",
+            "content": "https://firebasestorage.googleapis.com/v0/b/guide-pinjaman-online-52d2a.appspot.com/o/pinjol%20indo%2F22.html?alt=media&token=2f3a925b-8fd1-41ce-b640-ad740d539828",
+            "video": ""
+        }
+    ],
+    "more_apps": []
 }
